@@ -12,7 +12,7 @@ var polygon_img;
 
 function preload(){
  // polygon_img=loadImage("polygon.png");
-//backgroundImg=loadImage("bg.png");
+ // backgroundImg=loadImage("bg.png");
 }
 
 function setup() {
